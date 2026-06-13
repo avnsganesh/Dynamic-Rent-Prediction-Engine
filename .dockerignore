@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.pynb_checkpoints
+.git/
+screenshots/
+plots/
+*.ipynb
